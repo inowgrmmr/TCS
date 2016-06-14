@@ -1,30 +1,30 @@
 #body{
      background-color:blue;
      font-family: 'Monofett', cursive;
-     font-size:50px;
+     font-size:30px;
      
      background-image: url(imgie/backgournd.jpg);
 }
 
 #L1{
-    color:#0088ff; text-align:center; 
+    color:#0088ff; 
   
 }
   
   #L2{
-    color:#0088ff; text-align: center;
+    color:#0088ff;
   }
   
   #L3{
-     color:#0088ff;text-align: center; 
+     color:#0088ff;
   }
   
   #L4{
-      color:#0088ff;text-align: center;
+      color:#0088ff; text-align: center; 
   }
   
   #L5{
-      color:#0088ff;text-align: center;
+      color:#0088ff; text-align: center; 
   }
  
   ul{
