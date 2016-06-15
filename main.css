@@ -19,7 +19,7 @@
      color:#0088ff;
   }
   
-  #L4{
+  .L4{
       color:#0088ff; text-align: center; 
   }
   
@@ -28,9 +28,24 @@
   }
  
   ul{
-    font-family: 'Montserrat', sans-serif;  
+    font-family: 'Montserrat', sans-serif;
+     
   }
   
   #L6{
       color:#000099; text-align: center;
+  }
+  
+  a:link{
+      color:#0088ff ;
+      background-color: blue;
+  }
+  
+  a:hover{
+      color:blue;
+      background-color: green;s
+  }
+  
+  a:visited{
+      color:#0088ff;
   }
